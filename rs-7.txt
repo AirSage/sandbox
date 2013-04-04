@@ -1,0 +1,7 @@
+This is the new feature RS-7
+============================
+
+This issue or ticket is related to jira.
+I will try to change the status from smart
+commits using github
+
